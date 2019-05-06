@@ -7,7 +7,7 @@ Place all zips to be searched in one or more subdirectories of the directory tha
 
 Add the image you are searching for and name it search.png, or change the matching codeline.
 
-Run and wait. The currently best result will always be result.png. At the end you can read the results location the console.
+Run and wait. The currently best result will always be result.png. At the end you can read the results location from the console.
 
 ## Example
 
